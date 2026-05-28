@@ -1,5 +1,5 @@
 {
-"name": "praktikum-app-service", "version": "1.0.0",
+"name": "app-serverless-046", "version": "1.0.0",
 "description": "Aplikasi praktikum Azure App Service", "main": "server.js",
 "scripts": {
 "start": "node server.js"
